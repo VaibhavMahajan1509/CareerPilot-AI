@@ -11,7 +11,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://your-project-name.vercel.app",
+      "https://career-pilot-ai-drab.vercel.app",
     ],
     credentials: true,
   })
